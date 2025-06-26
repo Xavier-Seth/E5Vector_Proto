@@ -31,8 +31,9 @@ teacher_rules = {
     "Certification of Assumption to Duty": ["certification of assumption to duty"],
     "ICS": ["inventory custodian slip", "ics"],
     "RIS": ["requisition and issue slip", "ris"],
-    "Transcript of Records": [ "transcript of records", "official transcript of records"],
-    "Appointment Form": ["cs fom no. 3-a", "you are hereb apponted"]
+    "Transcript of Records": ["transcript of records", "official transcript of records"],
+    "Appointment Form": ["cs fom no. 3-a", "you are hereb apponted"],
+    "Daily Time Record": ["daily time record", "form 48", "civil service form no. 48", "dtr"],  # ✅ NEW
 }
 
 # 🧠 Vector-based Keywords
@@ -51,27 +52,31 @@ teacher_vectors = {
         "constitution", "loyalty", "duties", "responsibilities", "voluntarily", "so help me god"
     ],
     "Certification of Assumption to Duty": [
-    "assumed", "certification", "assumption", "duties", "cs form no. 4"
+        "assumed", "certification", "assumption", "duties", "cs form no. 4"
     ],
-      "ICS": [
+    "ICS": [
         "inventory", "custodian", "slip", "ics", "unit cost", "total cost", "fund cluster",
         "received from", "inventory item", "estimated useful life"
     ],
     "RIS": [
-        "requisition", "issue", "slip", "ris", "stock number", "requisitioned by", 
+        "requisition", "issue", "slip", "ris", "stock number", "requisitioned by",
         "approved by", "purpose", "item description", "quantity requested"
     ],
     "Transcript of Records": [
-    "transcript", "official transcript", "final grade", "units of credit",
-    "course name", "descriptive title", "university registrar",
-    "term", "semester", "date graduated", "degree", "marks", "rating",
-    "entrance data", "bachelor of science", "institute of architecture",
-    "grading system", "remarks", "place of birth", "date conferred"
+        "transcript", "official transcript", "final grade", "units of credit",
+        "course name", "descriptive title", "university registrar",
+        "term", "semester", "date graduated", "degree", "marks", "rating",
+        "entrance data", "bachelor of science", "institute of architecture",
+        "grading system", "remarks", "place of birth", "date conferred"
     ],
     "Appointment Form": [
-    "appointed", "appointment", "position", "salary", "civil service",
-    "plantilla", "appointing officer", "original", "promotion", "vice",
-    "date of signing", "status", "job title", "authorized", "cs form no. 33-a"
+        "appointed", "appointment", "position", "salary", "civil service",
+        "plantilla", "appointing officer", "original", "promotion", "vice",
+        "date of signing", "status", "job title", "authorized", "cs form no. 33-a"
+    ],
+    "Daily Time Record": [
+        "arrival", "departure", "under time", "in-charge",
+        "official hours", "civil service form no. 48", "daily record", "dtr", "attendance"
     ]
 }
 
@@ -162,7 +167,6 @@ def extract_and_classify():
         file.save(temp_path)
 
         text = ocr.extract_text(temp_path)
-        text = ocr.extract_text(temp_path)
         text = text.replace("nan", "").replace("\x0c", "").strip()
         text = re.sub(r"\s+", " ", text)  # Normalize whitespace
         print("📄 OCR Extracted Text:")
@@ -215,5 +219,6 @@ def extract_and_classify():
         traceback.print_exc()
         return jsonify({"error": "Internal Server Error", "message": str(e)}), 500
 
+# 🚀 Run Server
 if __name__ == "__main__":
     app.run(port=5000)
