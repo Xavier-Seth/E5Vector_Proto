@@ -1,0 +1,11 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+Name: J.P. Tiongco (Sample)
+Month: April 2016
+
+Day | AM (Arr/Dep) | PM (Arr/Dep) | Remarks
+01  | 8:00 / 12:00 | 1:00 / 5:00  | Present
+02  | —            | —            | Saturday
+07  | —            | —            | Leave
+…
+I certify…   Signature: ____   In-Charge: ____

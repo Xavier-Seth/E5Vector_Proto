@@ -1,0 +1,12 @@
+CSC Form No. 48
+DAILY TIME RECORD
+Name: Ana S. (Sample)
+Month: June 2021
+Official Hours: 8:00–12:00 / 1:00–5:00
+
+Day | AM (Arr/Dep) | PM (Arr/Dep) | Remarks
+01  | 8:10 / 12:20 | 1:05 / 5:01  | Present
+09  | —            | —            | Work From Home
+12  | —            | —            | Saturday
+…
+Signature: ____   Verified: Principal IV

@@ -1,0 +1,24 @@
+Civil Service Form No. 48 — DAILY TIME RECORD
+
+Name: J.P. Tiongco (Sample)
+For the month of April 2016
+Official hours: 8:00–12:00 / 1:00–5:00
+
+Day | AM (Arr / Dep) | PM (Arr / Dep) | Remarks
+01  | 8:00 / 12:00   | 1:00 / 5:00    | Present
+02  | —              | —              | Saturday
+03  | —              | —              | Sunday
+07  | —              | —              | Leave
+09  | —              | —              | Saturday
+12  | —              | —              | Leave
+…
+28  | 8:00 / 12:00   | 1:00 / 5:00    | Present
+29  | 8:00 / 12:00   | 1:00 / 5:00    | Present
+30  | —              | —              | Saturday
+31  | —              | —              | No record
+
+Certification:
+I certify on my honor that the above is a true and correct report
+of the hours of work performed.
+
+(Signature) ________    Verified by In-Charge: ________

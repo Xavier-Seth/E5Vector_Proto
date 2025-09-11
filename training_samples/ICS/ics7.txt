@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Rizal Central School
+Fund Cluster: 04  ICS No.: 2021-055
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  TV LED 43" with wall mount             17,800.00  17,800.00
+2    pcs   HDMI Cable 5m                             450.00     900.00
+Received from: ARNEL T. SISON
+Received by:   RACHEL G. SANTIAGO (Property Custodian)

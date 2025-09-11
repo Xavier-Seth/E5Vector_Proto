@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : ICT
+Responsibility Center Code : 005
+Office : MIS Unit
+RIS No. : 2025-005
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+005 UNIT External Hard Drive 2 ✔ 2 For data backup
+
+Requested by: KAREN D. ANGELES
+Approved by: JORGE R. VALDEZ
+Issued by: PETER M. AQUINO
+Date : 20-Jan-25

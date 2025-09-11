@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : SUPPLY
+Responsibility Center Code : 006
+Office : Supply Section
+RIS No. : 2025-006
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+006 PCS Ballpen Blue 50 ✔ 50 For daily office use
+
+Requested by: NOEL P. REYES
+Approved by: JULIA S. RAMIREZ
+Issued by: MELVIN T. DELA CRUZ
+Date : 22-Jan-25

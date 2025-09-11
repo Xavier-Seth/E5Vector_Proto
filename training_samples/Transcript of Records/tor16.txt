@@ -1,0 +1,34 @@
+[High School Name]
+Official High School Transcript
+
+Student Information:
+- Name: {{NAME}}
+- DOB: {{DOB}}
+- Sex: {{SEX}}
+- Address: {{ADDRESS}}
+- Phone: {{PHONE}}
+- ID: {{ID}}
+- Parent/Guardian: {{GUARDIANS}}
+
+Academic Record:
+| Subject Area | Course              | Grade | Credit |
+|--------------|---------------------|-------|--------|
+| English      | English I           | __    | __     |
+|              | English II          | __    | __     |
+| Math         | Algebra I           | __    | __     |
+|              | Algebra II          | __    | __     |
+| Science      | Biology             | __    | __     |
+|              | Chemistry           | __    | __     |
+| Social Stud. | American History    | __    | __     |
+|              | Government          | __    | __     |
+| Electives    | Spanish I           | __    | __     |
+|              | Music               | __    | __     |
+
+Totals:
+- Credits Earned: {{TOTAL}}
+- GPA: {{GPA}}
+
+Notes:
+- * In progress
+- ^ Math includes Geometry, Prob, Stats, Trig
+- Transcript valid only with official seal/signature

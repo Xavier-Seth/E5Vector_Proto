@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Cabangcalan Elementary School
+Fund Cluster: 01  ICS No.: 2023-002
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Panasonic Refrigerator NR-AQ153        13,999.00  13,999.00
+1    unit  Height & Weight Scale (Mechanical)      3,700.00   3,700.00
+Received from: MARIVIC B. DY
+Received by:   FELICIA A. GITACAY (School Property Custodian)

@@ -1,0 +1,24 @@
+CS Form No.212 (Revised 2017)
+PERS0NAL DATA SHEET
+
+I. PERSONAL INFO
+SURNAME : [NAME]
+FIRST   : [NAME]
+M1DDLE  : [NAME]
+DATE B1RTH : 01-01-1970
+C1T1ZENSHIP : Filipino
+SEX : Male   CIV1L STATUS : Married
+ADDR: 28 Planas Site Quezon City NCR
+TEL : 4486672    MOB: 0915xxxxxxx
+
+II. FAM1LY BACKGROUND
+SPOUSE : [Name]
+CHILDREN : [Child1] [Child2]
+FATHER : [Name]
+MOTHER MAIDEN : [Name]
+
+III. EDUCAT1ONAL BACKGROUND
+Elem – P. Bernardo Elem. Sch. – Grad
+Sec – Bernardo High – Grad
+College – Polytechnic Univ – 1985–1991
+Grad – Phil Normal Univ – 2007–2013

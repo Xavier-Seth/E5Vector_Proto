@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Pag-asa National HS
+Fund Cluster: 02  ICS No.: 2019-104
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Desktop PC i5/8GB/256GB SSD            32,800.00  32,800.00
+1    unit  24" LED Monitor                         5,600.00   5,600.00
+Received from: MYRNA E. LEE
+Received by:   ERWIN P. GARCIA (ICT)

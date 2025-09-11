@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT OF RECORDS
+
+Institution: {{SCHOOL_NAME}}
+Registrar Office Header
+
+Student Information
+- Name: {{NAME}}
+- Address: {{ADDRESS}}
+- Course: {{COURSE}}
+- Date Admitted: {{DATE_ADMITTED}}
+- Date Conferred: {{DATE_CONFERRED}}
+
+Table:
+| Term & Year       | Course Code | Descriptive Title                         | Final Grade | Units |
+|-------------------|-------------|-------------------------------------------|-------------|-------|
+| {{TERM}}          | {{CODE}}    | {{TITLE}}                                 | {{GRADE}}   | {{U}} |
+| {{TERM}}          | {{CODE}}    | {{TITLE}}                                 | {{GRADE}}   | {{U}} |
+| …                 | …           | …                                         | …           | …     |
+
+Remarks:
+- Grading System: {{SUMMARY_OF_GRADING_SCALE}}
+- Valid only with university seal and registrar signature.
+- {{ANY_SPECIAL_NOTES}}

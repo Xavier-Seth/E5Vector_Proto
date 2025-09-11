@@ -1,0 +1,41 @@
+Hope High School
+Official High School Transcript
+
+STUDENT INFO
+Name: LAST, FIRST M
+DOB: 1/1/1111   Sex: F
+Street Address: 123 Any Street, San Antonio, TX 00000
+Phone: 111-111-1111   ID: XXX-XX-XXXX
+Parent/Guardian: Mom / Dad
+
+ACADEMIC RECORD
+English I        A    1
+English II       A    1
+English III      B    1
+English IV *     B    1*
+Math Algebra I   A    1
+Math Algebra II  A    1
+Math Integrated ^ A   1
+Math Integrated ^ * B 1*
+
+Science Physical Science   A   1
+Biology                   A   1
+Chemistry                 C   1
+Physics *                 C   1*
+Social Studies American History A 1
+World History             B   1
+Govt *                    A   .5*
+Econ *                    A   .5*
+
+Electives Spanish I        C 1
+Keyboarding                A 1
+IT *                       B 1*
+PE                         B 1.5
+Music Guitar               A 1
+Music Piano *              A 1*
+
+TOTAL CREDITS: 21 to date / 27 projected
+GPA: 3.50 to date / 3.43 projected
+
+Notes: * In progress, ^ includes Geometry/Prob/Stats/Trig.
+National Test Scores: ACT xx, SAT xxx

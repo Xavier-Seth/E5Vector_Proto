@@ -1,0 +1,7 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Sto. Niño ES
+Fund Cluster: 01  ICS No.: 2020-019
+Qty  Unit  Description                           Unit Cost  Total Cost
+10   pcs   Student Armchair, wooden                 1,150.00  11,500.00
+Received from: ALICIA C. DOMINGO
+Received by:   MARY JOY A. NABONG (Property Custodian)

@@ -1,0 +1,15 @@
+Examples of Transcript of Records
+
+1. Transcript of records with signature and stamp:
+- Course names listed
+- Grade for all courses passed should be mentiond
+- Official stamp and signatur visible
+- Credits per course must be clerly shown
+- Name and other personal detail must be visible
+
+2. Electronic verifiable transcript:
+- Name and personal details clear
+- Grades for courses passed must be mentiond
+- Credits of each course visible
+- Course names appear
+- Disclaimer: "Electronic transcript — valid only when verified"

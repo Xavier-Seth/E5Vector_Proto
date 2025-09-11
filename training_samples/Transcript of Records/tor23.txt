@@ -1,0 +1,20 @@
+Transcript of Records — Sample
+
+Version A: Physical Copy (with Stamp & Signature)
+Student: A. Cruz (Sample)
+Program: BS Information Technology
+Courses:
+IT101   Introduction to Computing   1.75   3
+MATH101 College Algebra             2.25   3
+ENG101  Communication Skills        2.00   3
+Registrar’s Seal: Present
+Signature: Registrar J. Santos
+
+Version B: Electronic Copy
+Student: A. Cruz (Sample)
+Program: BS Information Technology
+Courses:
+IT102   Computer Programming I      2.00   3
+MATH102 Trigonometry                2.25   3
+ENG102  Writing in the Discipline   2.00   3
+Disclaimer: "This transcript is electronically verifiable."

@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : RECORDS
+Responsibility Center Code : 004
+Office : Records Section
+RIS No. : 2025-004
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+004 PACK Manila Folder Long 20 ✔ 20 For case records filing
+
+Requested by: ANA C. TORRES
+Approved by: ERIC L. RAMOS
+Issued by: CRIS B. NAVARRO
+Date : 17-Jan-25

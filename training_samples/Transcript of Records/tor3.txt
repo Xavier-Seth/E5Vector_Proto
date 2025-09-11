@@ -1,0 +1,16 @@
+OFFICIAL TRANSCRIPT OF RECORDS
+
+Name: {{NAME}}
+Address: {{ADDRESS}}
+Date Admitted: {{DATE_ADMITTED}}
+Entrance Data: {{ENTRANCE_DATA}}
+
+Course No.  | Descriptive Title             | Grade | Units
+---------------------------------------------------------------
+____        | ____________________________  | ____  | __
+____        | ____________________________  | ____  | __
+…           |                              |       |
+
+Remarks:
+Grading System: 1.00–1.25 Excellent; 1.50–1.75 Very Good; etc.
+Transcript valid only with seal and registrar signature.

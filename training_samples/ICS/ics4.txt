@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: San Isidro High School
+Fund Cluster: 02  ICS No.: 2023-016
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Epson EB-X06 LCD Projector             21,990.00  21,990.00
+1    unit  100" Projector Screen, tripod           3,200.00   3,200.00
+Received from: ROGELIO N. RAMOS
+Received by:   CRISTINA M. DE LEON (ICT Coordinator)

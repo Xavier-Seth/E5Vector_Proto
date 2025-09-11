@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Mabini Integrated School
+Fund Cluster: 01  ICS No.: 2022-077
+Qty  Unit  Description                           Unit Cost  Total Cost
+5    pcs   Plastic Monoblock Chair                   650.00   3,250.00
+1    unit  Whiteboard 4x8 ft                        4,100.00   4,100.00
+Received from: JOSEFINA L. REYES
+Received by:   MARCO A. DELA CRUZ (Property Custodian)

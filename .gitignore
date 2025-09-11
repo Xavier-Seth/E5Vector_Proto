@@ -1,3 +1,26 @@
-GoogleNews-vectors-negative300.bin.gz
-.venv/
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Model and vector files
+*.npz
+*.npy
+*.pt
+*.bin
+
+# Test uploads
+temp_uploads/
+test/
+
+

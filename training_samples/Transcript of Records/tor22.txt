@@ -1,0 +1,15 @@
+OFFICIAL TRANSCRIPT OF RECORDS
+
+Version 1: With Signature and Stamp
+- Student Name: {{NAME}}
+- Course List: {{COURSES}}
+- Grades: {{GRADES}}
+- Credits: {{CREDITS}}
+- Official Stamp & Registrar Signature: Present
+
+Version 2: Electronic Transcript
+- Student Name: {{NAME}}
+- Course List: {{COURSES}}
+- Grades: {{GRADES}}
+- Credits: {{CREDITS}}
+- Disclaimer: "This transcript is electronically verifiable."

@@ -1,0 +1,13 @@
+CS FORM 212 (Revised 2017) – PERSONAL DATA SHEET
+
+Sections:
+1. Personal Information – Names, DOB, Citizenship, Address, IDs, Contact
+2. Family Background – Spouse, Children, Parents
+3. Education – Elementary, Secondary, College, Graduate Studies
+4. Civil Service Eligibility – Exam Title, Rating, Date, Place, License
+5. Work Experience – Inclusive Dates, Position, Agency, Salary, Status, Gov’t Service
+6. Voluntary Work – Organization, Dates, Hours, Role
+7. Learning and Development – Program Title, Dates, Hours, Type
+8. Other Information – Skills, Distinctions, Memberships
+9. References – Name, Address, Contact
+10. Government Issued ID & Oath

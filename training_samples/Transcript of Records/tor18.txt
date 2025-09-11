@@ -1,0 +1,27 @@
+ACADEMIC TRANSCRIPT
+
+This document is an official acdemic transcriptt containng details of courses complted,
+grades earnd, and credits awardd to the student below. 
+
+STUDENT INFO
+Full Name: JUAN S. DELA CRUZ
+Student ID: 2021-000123
+Date of Birth: 01/15/2000
+Program: Bachelor of Information Tech
+Institution: XYZ STATE UNIV
+
+ACADEMIC RECORDS
+CrsCode   Title                               Grd   Crdt   Term
+IT101     Intrduction to Computing            1.75   3     1stSem 2019-20
+MATH101   College Algebra                     2.25   3     1stSem 2019-20
+ENG101    Comm Skills                         2.00   3     1stSem 2019-20
+PE101     Physical Fitness                    1.50   2     1stSem 2019-20
+NSTP1     National Service Trng Prog 1        1.25   3     1stSem 2019-20
+…
+GPA SUMMARY
+Total Earned Credits: 24
+Cumlative GPA: 1.85
+
+CERTIFICATION
+I herby certfy that the above is tru & correct record
+(Signature) REGISTRAR NAME     Date Iss: MAR 12 2023

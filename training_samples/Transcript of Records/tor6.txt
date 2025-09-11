@@ -1,0 +1,16 @@
+RAPU-RAPU COMMUNITY COLLEGE     OFFICIAL TRANSCRIPT OF RECORD
+OFFICE OF THE COLLEGE REGISTRAR
+
+ENTRANCE DATA: ________     Name: {{LAST, FIRST MIDDLE}}
+Address: {{ADDRESS}}        Course: {{COURSE}}
+Semester/Year Admitted: {{SEM/YEAR}}     Date Conferred: {{DATE}}
+
+TERM  COURSE  DESCRIPTIVE TITLE                         FINAL GRADE  UNITS
+1st Sem 20__  Engl 1  English Plus                      1.8          3
+              Fil 1   Komunikasyon sa Akademikong…      2.1          3
+              Math 1  Basic Mathematics                 1.2          3
+              NatSci1 Earth Science                     1.45         3
+…
+GRADING SYSTEM: 1.0(100–99) 1.1(98) 1.2(97) 1.3(96) … 3.0(75) 4.00 Conditional; 5.00 Failed
+Note: Transcript valid only with official seal & original signature of Registrar.
+REMARKS: *Page __ of __ pages*      (Registrar Signature/Seal)

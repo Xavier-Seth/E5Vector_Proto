@@ -1,0 +1,24 @@
+OFFICIAL TRANSCRIPT OF RECORDS
+
+University: {{UNIVERSITY_NAME}}
+Registrar Office Header
+
+Student Info:
+- Name: {{NAME}}
+- Address: {{ADDRESS}}
+- Date of Birth: {{DOB}}
+- Place of Birth: {{POB}}
+- Course: {{COURSE}}
+- Major: {{MAJOR}}
+- Date Conferred: {{GRAD_DATE}}
+
+Transcript Table
+| Term & Year     | Course Code | Descriptive Title          | Grade | Units | Remarks |
+|-----------------|-------------|----------------------------|-------|-------|---------|
+| {{TERM}}        | {{CODE}}    | {{TITLE}}                 | {{G}} | {{U}} | {{R}}   |
+| {{TERM}}        | {{CODE}}    | {{TITLE}}                 | {{G}} | {{U}} | {{R}}   |
+...
+
+Grading Notes:
+- Grading System: {{SCALE}}
+- Transcript valid only with seal and registrar signature

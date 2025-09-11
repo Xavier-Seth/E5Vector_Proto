@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : LEGAL SERVICES
+Responsibility Center Code : 001
+Office : Regional Legal Office
+RIS No. : 2025-001
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+001 BOX Bond Paper (A4, 80gsm) 5 ✔ 5 For office printing use
+
+Requested by: ATTY. DEPHRA JANE A. VILLOSO
+Approved by: ATTY. MARTE S. PALOMAR
+Issued by: ROMMEL A. STA. ANA
+Date : 10-Jan-25

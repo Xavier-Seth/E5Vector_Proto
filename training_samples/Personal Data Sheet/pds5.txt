@@ -1,0 +1,20 @@
+CS Form No. 212 (Revised 2017) – PERSONAL DATA SHEET
+
+I. PERSONAL INFORMATION
+- Surname, First Name, Middle Name
+- Date of Birth, Place of Birth
+- Citizenship, Sex, Civil Status
+- Residential & Permanent Address
+- IDs: GSIS, PAG-IBIG, PhilHealth, SSS, TIN
+- Contact Details
+
+II. FAMILY BACKGROUND
+- Spouse (Name, Occupation, Employer)
+- Children (Full Names, Birthdates)
+- Father’s Name
+- Mother’s Maiden Name
+
+III. EDUCATIONAL BACKGROUND
+- Elementary, Secondary, College, Graduate Studies
+- School Name, Degree/Course, Period of Attendance
+- Year Graduated, Honors

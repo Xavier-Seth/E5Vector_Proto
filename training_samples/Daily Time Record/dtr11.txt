@@ -1,0 +1,10 @@
+CS Form 48 — DAILY TIME RECORD
+Name: Ana B. (Sample)
+For the month of March 2021
+
+Day | AM (Arr, Dep)   | PM (Arr, Dep)   | Hours | Min
+01  | 8:05 / 12:00    | 1:02 / 5:00     | 8     | 00
+02  | 8:07 / 12:04    | 1:03 / 5:01     | 8     | 00
+…
+Total: Hours 160  Minutes 00
+(Signature) _______   (In-Charge) _______

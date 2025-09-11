@@ -1,0 +1,25 @@
+ACADEMIC TRANSCRIPT
+
+Student Information:
+- Full Name: {{NAME}}
+- Student ID: {{ID}}
+- Date of Birth: {{DOB}}
+- Program: {{PROGRAM}}
+- Institution: {{INSTITUTION}}
+
+Academic Records:
+| Course Code | Course Title         | Grade | Credits | Term          |
+|-------------|----------------------|-------|---------|---------------|
+| {{CODE}}    | {{TITLE}}            | {{G}} | {{CR}}  | {{TERM}}      |
+| {{CODE}}    | {{TITLE}}            | {{G}} | {{CR}}  | {{TERM}}      |
+
+GPA Summary:
+- Total Earned Credits: {{TOTAL}}
+- Cumulative GPA: {{GPA}}
+
+Honors and Awards:
+- {{AWARD_TITLE}}: {{DESCRIPTION}}
+
+Registrar’s Certification:
+I hereby certify that the above is a complete and accurate record.
+Registrar: {{REGISTRAR_NAME}}     Date: {{ISSUE_DATE}}

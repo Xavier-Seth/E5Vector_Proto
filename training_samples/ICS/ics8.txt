@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Rizal Central School
+Fund Cluster: 04  ICS No.: 2021-059
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Photocopy Machine, A4, 30ppm           28,900.00  28,900.00
+1    set   Starter Toner Set                        2,800.00   2,800.00
+Received from: ARNEL T. SISON
+Received by:   JESSA D. PADILLA (Supply Officer)

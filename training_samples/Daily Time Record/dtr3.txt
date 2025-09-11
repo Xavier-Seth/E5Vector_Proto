@@ -1,0 +1,24 @@
+CIVIL SERVICE FORM NO. 48 — DAILY TIME RECORD
+
+Name: {{E. Santos}}              Position: {{Administrative Aide}}
+For the month of: {{June}} {{2024}}
+Official hours (Regular days): 8:00 AM–12:00 NN & 1:00–5:00 PM
+Saturdays: As required
+
+DAY | A.M.           | P.M.           | Undertime (Hrs, Min)
+01  | 8:05 / 12:03   | 1:06 / 5:01    | 0, 02
+02  | 8:10 / 12:00   | 1:08 / 5:00    | 0, 00
+03  | — / — (Sat)    | — / —          | —
+04  | 8:02 / 12:05   | 1:03 / 5:04    | 0, 00
+05  | 8:07 / 12:04   | 1:05 / 5:02    | 0, 00
+06  | — / — (Sun)    | — / —          | —
+07  | 8:11 / 12:07   | 1:05 / 5:30    | 0, 00
+…
+Total Hours: {{TOTAL_HRS}}   Total Minutes: {{TOTAL_MIN}}
+
+Certification:
+I certify on my honor that the above is a true and correct report of the hours of work performed,
+record of which was made daily at the time of arrival and departure from office.
+
+Employee’s Signature: ______________________
+Verified as to the prescribed office hours: In-Charge ______________________

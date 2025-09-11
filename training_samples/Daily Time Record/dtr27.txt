@@ -1,0 +1,18 @@
+Civil Service Form No. 48 — DAILY TIME RECORD
+Name: L. Coloso (Sample)
+Month: August 2022
+Official Hours: 8:00–12:00 / 1:00–5:00 (Sat: as required)
+
+Day | AM (Arr/Dep)      | PM (Arr/Dep)      | Remarks / Undertime
+13  | —                 | —                 | Saturday
+14  | —                 | —                 | Sunday
+15  | 7:12 / 12:05      | 12:28 / 5:36      | 0h 02m
+16  | 7:05 / 12:05      | 12:16 / 5:46      | 0h 00m
+17  | 6:50 / 12:07      | 12:30 / 5:30      | 0h 00m
+18  | 7:08 / 12:05      | 12:30 / 5:07      | 0h 00m
+19  | 7:06 / 12:05      | 12:30 / 5:46      | 0h 00m
+…
+Totals: Hours __  Minutes __
+
+Certification: I certify on my honor that the above is true and correct.
+(Signature) ________   Verified by In-Charge: ________

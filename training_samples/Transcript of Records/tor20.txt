@@ -1,0 +1,31 @@
+Academic Transcript
+XYZ State University
+
+Student Information
+Name: A. Santos (Sample)
+Student ID: 2019-00123
+Date of Birth: 07/20/2001
+Program: BS Information Technology
+
+Academic Records
+Course Code   Course Title                 Grade   Credits   Term
+IT101         Introduction to Computing    1.75    3         1st Sem 2019–2020
+MATH101       College Algebra              2.00    3         1st Sem 2019–2020
+ENG101        Communication Skills         2.00    3         1st Sem 2019–2020
+PE101         Physical Fitness             1.50    2         1st Sem 2019–2020
+NSTP1         National Service Training 1  1.25    3         1st Sem 2019–2020
+IT102         Computer Programming 1       1.75    3         2nd Sem 2019–2020
+MATH102       Trigonometry                 2.25    3         2nd Sem 2019–2020
+ENG102        Writing in the Discipline    2.00    3         2nd Sem 2019–2020
+
+GPA Summary
+Total Earned Credits: 24
+Cumulative GPA: 1.85
+
+Honors and Awards
+Dean’s Lister: 2nd Semester, 2019–2020
+
+Registrar’s Certification
+I hereby certify this is a true and correct record.
+Registrar: Dr. J. Reyes
+Date of Issue: March 15, 2023

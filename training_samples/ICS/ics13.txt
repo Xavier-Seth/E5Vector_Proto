@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Pag-asa National HS
+Fund Cluster: 02  ICS No.: 2019-110
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Ceiling Fan, industrial                  4,750.00   4,750.00
+4    pcs   LED Tube 18W                              320.00   1,280.00
+Received from: MYRNA E. LEE
+Received by:   LIZA C. ABELLANA (Property Custodian)
