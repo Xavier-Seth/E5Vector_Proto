@@ -16,8 +16,7 @@ TRAIN_DIR = Path("training_samples")                 # training_samples/<ClassNa
 PROTO_FILE = Path("prototypes_e5.npz")               # centroid store
 
 # classification gates
-SIMILARITY_THRESHOLD = 0.45   # only threshold now
-MIN_WORDS = 100              # too-short OCR → Uncategorized
+SIMILARITY_THRESHOLD = 0.90   # only threshold now
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Init
@@ -106,17 +105,14 @@ def clean_text(s: str) -> str:
     return s.strip()
 
 # ──────────────────────────────────────────────────────────────────────────────
-# Decision helper (no top2 margin anymore)
+# Decision helper (only threshold now)
 # ──────────────────────────────────────────────────────────────────────────────
 def _decide_label(text: str, sims: np.ndarray, labels: list):
     order = np.argsort(-sims)
     top_idx = int(order[0])
     top_label = labels[top_idx]
     top_score = float(sims[top_idx])
-    words = len(text.split())
 
-    if words < MIN_WORDS:
-        return "Uncategorized", top_score
     if top_score < SIMILARITY_THRESHOLD:
         return "Uncategorized", top_score
 
