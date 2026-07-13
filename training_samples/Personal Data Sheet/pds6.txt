@@ -1,0 +1,18 @@
+CS Form No. 212 (Revised 2017) – PERSONAL DATA SHEET
+
+I. PERSONAL INFORMATION
+Surname: [Surname]    First Name: [First]    Middle Name: [Middle]
+Date of Birth: [MM/DD/YYYY]    Citizenship: [Filipino]
+Place of Birth: [City/Province]    Sex: [Male/Female]    Civil Status: [Single/Married]
+
+II. FAMILY BACKGROUND
+Spouse: [Name], Occupation: [Job], Employer: [Agency]
+Children: [Child1], [Child2], [Child3]
+Father: [Father’s Name]
+Mother’s Maiden Name: [Mother’s Name]
+
+III. EDUCATIONAL BACKGROUND
+Elementary: [School], [Year Graduated]
+Secondary: [School], [Year Graduated]
+College: [School], [Degree], [Years]
+Graduate: [School], [Degree], [Years]

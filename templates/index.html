@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Word2Vec Classifier</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 2rem;
+        max-width: 700px;
+        margin: auto;
+        background-color: #f7f9fa;
+      }
+      h2 {
+        color: #2c3e50;
+        margin-bottom: 1rem;
+      }
+      textarea,
+      button {
+        width: 100%;
+        padding: 12px;
+        margin-top: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #2980b9;
+      }
+      .result {
+        margin-top: 20px;
+        padding: 15px;
+        background: #ecf0f1;
+        border-left: 5px solid #3498db;
+        font-size: 16px;
+      }
+      .error {
+        background: #fce4e4;
+        border-left: 5px solid #e74c3c;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Word2Vec Document Classifier</h2>
+    <form id="classifyForm">
+      <label for="inputText">Enter text or keywords:</label>
+      <textarea
+        id="inputText"
+        rows="6"
+        placeholder="e.g. I solemnly swear that I will discharge the duties of my position..."
+      ></textarea>
+      <button type="submit">Classify</button>
+    </form>
+
+    <div id="output" class="result" style="display: none"></div>
+
+    <script>
+      document
+        .getElementById("classifyForm")
+        .addEventListener("submit", function (e) {
+          e.preventDefault();
+          const inputText = document.getElementById("inputText").value;
+
+          fetch("/classify", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ text: inputText }),
+          })
+            .then((res) => res.json())
+            .then((data) => {
+              const output = document.getElementById("output");
+
+              if (data.subcategory || data.category) {
+                output.classList.remove("error");
+
+                let percent =
+                  data.similarity !== undefined
+                    ? `${(data.similarity * 100).toFixed(2)}%`
+                    : "";
+
+                let topWords = "";
+                if (data.top_tokens && data.top_tokens.length > 0) {
+                  topWords += "<strong>Top Contributing Words:</strong><ul>";
+                  data.top_tokens.forEach((item) => {
+                    topWords += `<li>${item.word} (Score: ${(
+                      item.score * 100
+                    ).toFixed(2)}%)</li>`;
+                  });
+                  topWords += "</ul>";
+                }
+
+                output.innerHTML = `
+              <strong>Main Category:</strong> ${data.main_category || "N/A"}<br>
+              <strong>Subcategory:</strong> ${
+                data.subcategory || data.category
+              }<br>
+              ${
+                data.similarity !== undefined
+                  ? `<strong>Similarity:</strong> ${percent}<br>`
+                  : ""
+              }
+              <strong>Matched By:</strong> ${data.method || "N/A"}<br>
+              ${topWords}
+            `;
+              } else {
+                output.classList.add("error");
+                output.innerHTML = `<strong>Error:</strong> ${
+                  data.message || "Something went wrong."
+                }`;
+              }
+
+              output.style.display = "block";
+            });
+        });
+    </script>
+  </body>
+</html>

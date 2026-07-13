@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : ADMIN
+Responsibility Center Code : 007
+Office : General Services
+RIS No. : 2025-007
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+007 ROLL Tissue Paper Jumbo 10 ✔ 10 For office restrooms
+
+Requested by: LIZA M. CASTRO
+Approved by: ROBERT V. SANTILLAN
+Issued by: DANIEL F. LIM
+Date : 25-Jan-25

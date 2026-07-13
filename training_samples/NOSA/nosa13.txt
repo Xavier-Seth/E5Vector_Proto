@@ -1,0 +1,9 @@
+Plantilla of Personnel - Salary Adjustment
+
+Item No: TCH1-123456-1998
+Position: Teacher I
+Authorized Salary: 27,000
+Actual Salary: 27,000
+Step: 1
+
+Remark: Adjusted pursuant to RA 11466.

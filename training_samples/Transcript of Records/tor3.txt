@@ -1,0 +1,4 @@
+Course Code | Descriptive Title | Units | Final Grade | Remarks
+AR111 Introduction to Design 3.0 2.0 Passed
+Math1 College Algebra 3.0 2.2 Passed
+Fil1 Komunikasyon sa Akademikong Filipino 3.0 1.5 Passed

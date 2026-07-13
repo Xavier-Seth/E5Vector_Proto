@@ -1,0 +1,9 @@
+CSC Form No. 48
+DAILY TIME RECORD
+Name: {{NAME}}
+Month: {{MONTH}} {{YEAR}}
+
+DAY | AM (In/Out) | PM (In/Out) | Status/Undertime
+01  | __:__ / __:__ | __:__ / __:__ | __
+…
+Employee Signature + Verified by In-Charge

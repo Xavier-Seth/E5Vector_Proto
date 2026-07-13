@@ -1,0 +1,17 @@
+CSC Form No. 48 — DAILY TIME RECORD
+Name: A. Santos (Sample)
+Month: June 2021
+Official Hours: 8:00–12:00 / 1:00–5:00 (Mon–Fri); Saturdays: As required
+
+Day | AM (Arr/Dep)   | PM (Arr/Dep)   | Remarks
+01  | 8:10 / 12:20   | 1:05 / 5:01    | Present
+02  | 8:10 / 12:00   | 1:10 / 5:00    | Present
+03  | 8:11 / 12:07   | 1:05 / 5:30    | Present
+05  | —              | —              | Saturday
+06  | —              | —              | Sunday
+09  | —              | —              | WORK FROM HOME
+10  | —              | —              | WORK FROM HOME
+21  | —              | —              | WORK FROM HOME
+…
+Certification: I certify on my honor that the above is true and correct.
+(Signature) ________   Verified: Principal IV

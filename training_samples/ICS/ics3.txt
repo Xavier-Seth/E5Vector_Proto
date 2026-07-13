@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: San Isidro High School
+Fund Cluster: 02  ICS No.: 2023-014
+Qty  Unit  Description                           Unit Cost  Total Cost
+2    pcs   Office Chair, steel frame               1,250.00   2,500.00
+1    unit  Steel Cabinet, 4-drawer                 6,850.00   6,850.00
+Received from: ROGELIO N. RAMOS
+Received by:   JENNIFER O. SANTOS (Property Custodian)

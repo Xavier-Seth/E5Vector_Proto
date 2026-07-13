@@ -1,0 +1,7 @@
+REQUISITION AND ISSUE SLIP – DepEd Form
+Used to authorize the withdrawal or issuance of office supplies.
+Details include:
+Entity Name | Fund Cluster | Office | RIS No.
+Stock No. | Unit | Description | Quantity | Remarks
+Purpose: ____________________________
+Signed by Supply Officer and requesting official.

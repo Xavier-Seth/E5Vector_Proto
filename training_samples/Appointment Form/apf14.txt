@@ -1,0 +1,25 @@
+CS Form 33 — Appointment Form (1998 Revision)
+
+Agency: {{AGENCY}}
+Division: {{DIVISION}}
+
+Appointee: {{FULL_NAME}}
+Position: {{POSITION}}
+Salary Grade: {{SG}}
+Status: {{STATUS}}
+Compensation: Php {{AMOUNT}} per annum
+
+Appointment Type: {{TYPE}} (Original / Promotion / etc.)
+Vice: {{VICE_REASON}}
+Plantilla Item No: {{ITEM_NO}}, Page: {{PAGE}}
+
+Appointing Authority: {{OFFICER}}, {{TITLE}}
+Date of Signing: {{DATE}}
+
+Certifications:
+- HRMO Certification (requirements complete)
+- PSB Certification (appointee qualified)
+
+Notations:
+- Valid only with CSC confirmation
+- Copies furnished: Appointee / CSC / Agency

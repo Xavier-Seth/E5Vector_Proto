@@ -1,0 +1,11 @@
+Requisition and Issue Slip (RIS)
+An official DepEd and COA form used to request, approve, issue, and receive materials.
+
+Contains:
+- Entity Name and Fund Cluster
+- Division and Office details
+- Stock Number and Description
+- Purpose of request
+- Signature fields for requester, approver, issuer, and receiver
+
+Ensures transparency and accountability in inventory management.

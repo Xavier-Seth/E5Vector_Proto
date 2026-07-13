@@ -1,0 +1,10 @@
+REQUISITION AND ISSUE SLIP
+Purpose: For official use of the requesting office.
+Used to document the withdrawal of items from the Supply or Property Division.
+Includes the following fields:
+• Entity Name
+• Fund Cluster
+• RIS Number
+• Stock and Quantity Details
+• Purpose of Request
+• Signature of Requester and Approver

@@ -1,0 +1,7 @@
+GRADING SYSTEM:
+1.0 – 99-100% Excellent
+1.5 – 94% Very Satisfactory
+2.0 – 89% Satisfactory
+3.0 – 75% Passing
+5.0 – Failed
+INC – Incomplete

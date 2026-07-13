@@ -1,0 +1,16 @@
+CSC Form No. 48
+DAILY TIME RECORD
+
+Name: {{EMPLOYEE_NAME}}
+Month: {{MONTH}} {{YEAR}}
+Regular: {{REGULAR_HOURS}}    Saturdays: {{SATURDAY_RULE}}
+
+DAY | AM (In/Out)         | PM (In/Out)         | Status / Undertime (H, M)
+01  | __:__ / __:__       | __:__ / __:__       | __
+02  | __:__ / __:__       | __:__ / __:__       | __
+…   |                     |                     |
+09  | —                   | —                   | WORK FROM HOME
+12  | —                   | —                   | Saturday
+13  | —                   | —                   | Sunday
+…
+Employee Signature: _____________    Verified by: _____________

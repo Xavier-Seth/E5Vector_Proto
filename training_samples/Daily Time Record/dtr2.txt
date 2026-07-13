@@ -1,0 +1,28 @@
+CIVIL SERVICE FORM NO. 48
+DAILY TIME RECORD
+
+(Name): {{EMPLOYEE_NAME}}
+Position: {{POSITION}}
+Area of Assignment: {{ASSIGNMENT}}
+
+For the month of {{MONTH}} {{YEAR}}
+Official hours of arrival and departure
+- Regular days: {{REGULAR_HOURS}}
+- Saturdays: {{SATURDAY_HOURS}}
+
+DAY | A.M. (Arrival, Departure) | P.M. (Arrival, Departure) | Undertime (Hours, Minutes)
+01  | __:__  __:__              | __:__  __:__              | __  __
+02  | __:__  __:__              | __:__  __:__              | __  __
+…
+31  | __:__  __:__              | __:__  __:__              | __  __
+
+TOTAL: Hours {{TOTAL_HRS}}  Minutes {{TOTAL_MIN}}
+
+Certification:
+“I certify on my honor that the above is a true and correct report of the hours of work performed,
+record of which was made daily at the time of arrival and departure from office.”
+
+Employee’s Signature: ______________________
+Verified as to the prescribed office hours:
+In-Charge: ______________________
+(See instructions on back)

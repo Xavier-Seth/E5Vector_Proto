@@ -1,0 +1,12 @@
+INVENTORY CUSTODIAN SLIP – DepEd Form (ICS)
+Purpose: To record the distribution of tangible items to accountable officers or end-users.
+Details include:
+• Entity Name and Fund Cluster
+• ICS Control Number
+• Quantity and Unit of Item
+• Description and Serial Number
+• Estimated Useful Life
+• Unit and Total Cost
+
+Form signed by the AO IV (Supply Unit) and recipient.
+Applicable to semi-expendable items below ₱15,000.

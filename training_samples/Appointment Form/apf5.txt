@@ -1,0 +1,26 @@
+CS Form 33 — Appointment Form (Regulated Agencies)
+
+Agency: {{AGENCY}}
+Division: {{DIVISION}}
+
+Appointee: {{FULL_NAME}}
+Position: {{POSITION_TITLE}}
+Salary Grade: {{SALARY_GRADE}}
+Status: {{APPOINTMENT_STATUS}}
+Compensation: Php {{AMOUNT}} per annum
+
+Nature of Appointment: {{NATURE}} (Original / Promotion / etc.)
+Vice: {{VICE_REASON}}
+Plantilla Item No.: {{ITEM_NO}}, Page: {{PAGE}}
+
+Appointing Authority: {{OFFICER_NAME}}
+Designation: {{OFFICER_TITLE}}
+Date of Signing: {{DATE}}
+
+Certifications:
+- HRMO Certification (requirements complete)
+- PSB Certification (qualified by board deliberation)
+
+Notations:
+- Appointment valid only with CSC confirmation
+- Copies for: Appointee, CSC, Agency

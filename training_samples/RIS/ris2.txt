@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : FINANCE
+Responsibility Center Code : 002
+Office : Budget Division
+RIS No. : 2025-002
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+002 BOTTLE Printer Ink (Black, HP) 3 ✔ 3 For report printing
+
+Requested by: JANE D. CRUZ
+Approved by: JOHN R. GOMEZ
+Issued by: ANA P. VILLAR
+Date : 12-Jan-25

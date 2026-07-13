@@ -1,0 +1,13 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+
+Name: Maria S. (Sample)
+For the month of August 2022
+Regular Days: 8:00–12:00 & 1:00–5:00
+Saturdays: 8:00–1:00
+
+Day | AM (Arr, Dep)   | PM (Arr, Dep)   | Undertime
+01  | 8:05 / 12:02    | 1:06 / 5:01     | 0,02
+02  | 8:08 / 12:00    | 1:07 / 5:03     | 0,00
+…
+Total: Hours __ Min __

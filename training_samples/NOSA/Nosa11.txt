@@ -1,0 +1,9 @@
+FOR AGENCY REMITTANCE ADVICE
+FORM C. List of employees with salary adjustments.
+
+Name: DELA CRUZ, JUAN
+Position: Teacher I
+Effectivity Date: 01/01/2020
+Old Salary: 20,754.00
+New Salary: 22,316.00
+Reason: Salary Adjustment (SSL V Tranche 1)

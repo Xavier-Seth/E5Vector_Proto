@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Editor
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Model and vector files
+prototypes_e5.npz
+*.npz
+*.npy
+*.pt
+*.bin
+
+# Documents (never commit real files)
+*.pdf
+*.docx
+
+# Test uploads
+temp_uploads/
+test/

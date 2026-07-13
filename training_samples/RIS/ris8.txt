@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : TRAINING
+Responsibility Center Code : 008
+Office : Training Unit
+RIS No. : 2025-008
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+008 BOX Whiteboard Marker 12 ✔ 12 For training seminars
+
+Requested by: JOSE R. BAUTISTA
+Approved by: MARY P. CRUZ
+Issued by: FRANCIS D. VILLANUEVA
+Date : 27-Jan-25

@@ -1,0 +1,9 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+Name: {{NAME}}
+Month: {{MONTH}} {{YEAR}}
+
+DAY | AM Arrival/Departure | PM Arrival/Departure | Notes
+01  | __:__ / __:__        | __:__ / __:__        | __
+…
+Certification + Signature + In-Charge

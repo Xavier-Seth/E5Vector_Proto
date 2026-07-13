@@ -1,0 +1,27 @@
+CS Form 33 — Appointment Form
+
+Agency: {{AGENCY}}
+Division: {{DIVISION}}
+
+Appointee: {{FULL_NAME}}
+Position: {{POSITION_TITLE}}
+Salary Grade: {{SG}}
+Status: {{STATUS}}
+Compensation: Php {{AMOUNT}} per annum
+
+Appointment Type: {{APPT_TYPE}} (Original / Promotion / etc.)
+Vice: {{VICE_REASON}}
+Plantilla Item No.: {{ITEM_NO}}, Page: {{PAGE}}
+
+Appointing Authority: {{OFFICER_NAME}}, {{TITLE}}
+Date of Signing: {{DATE}}
+
+Certification 1:
+HRMO confirms compliance with CSC MC requirements.
+
+Certification 2:
+Personnel Selection Board certifies appointee is qualified.
+
+Notations:
+- Appointment invalid if altered without CSC confirmation
+- Copies: Appointee / CSC / Agency

@@ -1,0 +1,29 @@
+CS Form No. 33-A — Appointment Form
+(Revised 2017)
+
+Agency: {{AGENCY_NAME}}
+
+Appointee: {{FULL_NAME}}
+
+Position Title: {{POSITION_TITLE}}
+Salary Grade: {{SG}}
+Appointment Status: {{STATUS}} (Permanent / Temporary / Coterminous)
+Office/Unit: {{OFFICE}}
+
+Compensation Rate: Php {{AMOUNT}} per month
+
+Nature of Appointment: {{NATURE}} (Original / Promotion / etc.)
+Vice: {{VICE_REASON}} with Plantilla Item No. {{ITEM_NO}}
+
+Effective Date: {{DATE}}
+
+Signed by: {{APPOINTING_OFFICER}}
+Designation: {{DESIGNATION}}
+Date of Signing: {{DATE}}
+
+Certifications:
+- HRMO Certification: {{CERT_TEXT}}
+- HRMPSB Screening Certification: {{CERT_TEXT}}
+
+Acknowledgement:
+Received by: {{APPOINTEE_NAME}} on {{DATE}}

@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : MAINTENANCE
+Responsibility Center Code : 010
+Office : Maintenance Unit
+RIS No. : 2025-010
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+010 CAN Paint White 4 ✔ 4 For repainting office walls
+
+Requested by: PEDRO H. CRUZ
+Approved by: ANDREA V. DELOS REYES
+Issued by: CARLO F. ALVAREZ
+Date : 02-Feb-25

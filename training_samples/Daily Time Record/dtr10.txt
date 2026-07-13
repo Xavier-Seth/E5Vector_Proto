@@ -1,0 +1,10 @@
+CS Form 48
+DAILY TIME RECORD
+
+Name: {{NAME}}
+Month: {{MONTH}} {{YEAR}}
+
+DAY | A.M. Arrival / Departure | P.M. Arrival / Departure | Hours | Minutes
+01  | __:__ / __:__             | __:__ / __:__            | __    | __
+…
+Certification, Employee Signature, In-Charge

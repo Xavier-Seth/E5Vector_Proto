@@ -1,0 +1,12 @@
+FOR AGENCY REMITTANCE ADVICE (ARA)
+FORM C. List of employees with salary adjustments.
+
+Agency Name: Department of Education
+Confirmation of correct amount of monthly salary and effectivity date.
+
+Member BP Number: 2001234567
+Name: DELA CRUZ, JUAN
+Position: Teacher I
+Effectivity Date: 01/01/2020
+New Salary: 22,316.00
+Remarks: SSL V First Tranche Adjustment

@@ -1,0 +1,12 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+
+Name: {{EMPLOYEE_NAME}}
+For the month of {{MONTH}} {{YEAR}}
+Regular Days: {{HOURS}}
+Saturdays: {{HOURS}}
+
+DAY | A.M. (Arr, Dep) | P.M. (Arr, Dep) | Undertime (Hrs, Min)
+01  | __:__  __:__    | __:__  __:__    | __ __
+…
+Certification + In-Charge signature

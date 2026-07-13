@@ -1,0 +1,11 @@
+Appendix 50 – REQUISITION AND ISSUE SLIP (RIS)
+Entity Name: ___________________
+Fund Cluster: ___________________
+Responsibility Center Code: ______
+RIS No.: ________________________
+Purpose: ________________________
+Requested by: ___________________
+Approved by: ____________________
+Issued by: ______________________
+Received by: ____________________
+Remarks: _______________________

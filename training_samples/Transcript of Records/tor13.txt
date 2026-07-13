@@ -1,0 +1,36 @@
+UNIVERSITY OF THE PHILIPPINES
+OFFICIAL TRANSCRIPT OF RECORDS
+
+Student Name: DELA CRUZ, JUAN MIGUEL T.
+Student No.: 2016-10481
+Program: Bachelor of Science in Computer Science
+College: College of Engineering
+Date of Admission: June 2016
+Date of Graduation: July 2020
+
+This transcript is a complete record of all academic work completed by the student. It is not valid without the embossed university seal and the registrar’s signature.
+
+---------------------------------------------
+Course Code | Descriptive Title                | Units | Grade | Remarks
+---------------------------------------------
+CS 11       | Introduction to Computer Science | 3.0   | 1.75  | Passed
+Math 53     | Elementary Analysis I            | 5.0   | 1.75  | Passed
+Eng 1       | Basic Communication Skills       | 3.0   | 1.50  | Passed
+PE 2        | Physical Fitness                 | 2.0   | 2.00  | Passed
+CS 21       | Fundamentals of Programming      | 3.0   | 1.50  | Passed
+CS 32       | Data Structures                  | 3.0   | 1.25  | Passed
+CS 165      | Database Systems                 | 3.0   | 1.75  | Passed
+CS 191      | Special Problem in Computer Science | 3.0 | 1.25 | Passed
+---------------------------------------------
+General Weighted Average (GWA): 1.68
+Total Units Earned: 145
+Status: GRADUATED – Magna Cum Laude
+
+CERTIFICATION:
+I hereby certify that this transcript is a true and complete record of all courses completed by the above-named student.
+
+Issued this 12th day of August 2020
+(Signed)
+ENGR. MARIA CLARA R. FERNANDEZ
+University Registrar
+University of the Philippines – Diliman

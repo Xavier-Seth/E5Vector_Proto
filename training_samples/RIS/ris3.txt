@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : HR
+Responsibility Center Code : 003
+Office : HRMO
+RIS No. : 2025-003
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+003 PCS Stapler Heavy Duty 2 ✔ 2 For personnel files
+
+Requested by: MARIO B. LOPEZ
+Approved by: RICA P. SANTOS
+Issued by: LEO R. FERNANDEZ
+Date : 15-Jan-25

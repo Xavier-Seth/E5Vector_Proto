@@ -1,0 +1,8 @@
+Requisition and Issue Slip (RIS)
+A form used by government offices under COA Appendix 50 to record the request and issuance of materials and supplies.
+
+Typical fields:
+- Entity Name, Fund Cluster, and Responsibility Center Code
+- Stock Number, Unit, and Description
+- Quantity, Purpose, and Remarks
+- Signatures: Requested by, Approved by, Issued by, and Received by

@@ -1,0 +1,20 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+
+Name: {{EMPLOYEE_NAME}}
+Month: {{MONTH}} {{YEAR}}
+Official Hours: {{REGULAR}} / {{SATURDAY}}
+
+DAY | AM (Arrival, Departure) | PM (Arrival, Departure) | Notes
+01  | __:__ / __:__           | __:__ / __:__           | __
+02  | __:__ / __:__           | __:__ / __:__           | __
+…
+31  | __:__ / __:__           | __:__ / __:__           | __
+
+Certification:
+“I certify on my honor that the above is a true and correct report
+of the hours of work performed, record of which was made daily
+at the time of arrival and departure from office.”
+
+Employee Signature: _____________
+In-Charge: _____________

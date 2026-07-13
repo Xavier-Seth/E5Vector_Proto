@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Sto. Niño ES
+Fund Cluster: 01  ICS No.: 2020-021
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Water Dispenser, hot & cold              5,200.00   5,200.00
+3    pcs   Water Container 5-gal                      380.00   1,140.00
+Received from: ALICIA C. DOMINGO
+Received by:   RONALD B. MATEO (Property Custodian)

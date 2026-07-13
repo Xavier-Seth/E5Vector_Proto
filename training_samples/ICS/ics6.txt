@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP
+Entity Name: Mabini Integrated School
+Fund Cluster: 01  ICS No.: 2022-082
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Lenovo V14 i3 10th Gen Laptop           26,500.00  26,500.00
+1    unit  UPS 650VA Line-Interactive               2,450.00   2,450.00
+Received from: JOSEFINA L. REYES
+Received by:   LOURDES P. VELASCO (School ICT)

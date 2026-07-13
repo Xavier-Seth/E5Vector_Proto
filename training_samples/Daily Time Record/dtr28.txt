@@ -1,0 +1,25 @@
+CSC FORM No. 48     DAILY TIME RECORD
+(Name)
+
+For the month of JUNE 2021
+Official hours of arrival (Regular days) MONDAY - FRIDAY
+and departure (Saturdays) As required
+
+DAY   A.M. (Arr Dep)           P.M. (Arr Dep)            UNDERTIME (Hour Minute)
+---------------------------------------------------------------------------
+1     8:10AM 12:20PM           1:05PM 5:01PM             0  00
+2     8:10AM 12:00PM           1:10PM 5:00PM             0  00
+3     8:11AM 12:07PM           1:05PM 5:30PM             0  00
+4     8:05AM 12:18PM           1:05PM 5:01PM             0  00
+5     S    a t     u r     d a     y                     —
+6     S u       n d      a y                               —
+7     8:11AM 12:07PM           1:05PM 5:30PM             0  00
+8     8:20AM 12:18PM           1:05PM 5:01PM             0  00
+9     WORK FROM HOME
+10    WORK FROM HOME
+11    8:05AM 12:18PM           1:05PM 5:01PM             0  00
+…
+Verified as to the prescribed office hours. Principal IV
+
+I CERTIFY on my honor that the abov is a tru and correct report of hours of work.
+(Signature) ______________________

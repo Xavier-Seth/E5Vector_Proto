@@ -1,0 +1,11 @@
+Civil Service Form No. 48
+DAILY TIME RECORD
+Name: Leo C. (Sample)
+Month: October 2022
+Official Hours: 7:00–12:00 / 1:00–4:30
+
+Day | AM In/Out   | PM In/Out   | Undertime
+02  | 7:00 / 12:00| 1:00 / 5:00 | 0,00
+15  | —           | —           | Saturday
+…
+Signature: ______   In-Charge: ______

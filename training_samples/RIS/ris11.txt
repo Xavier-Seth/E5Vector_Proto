@@ -1,0 +1,17 @@
+Appendix 50 – Requisition and Issue Slip (RIS)
+Republic of the Philippines
+Department of Education
+Region VI – Western Visayas
+
+REQUISITION AND ISSUE SLIP
+Entity Name: ____________________________
+Fund Cluster: ____________________________
+Division: ________________________________
+Responsibility Center Code: _______________
+Office: _________________________________
+RIS No.: ________________________________
+
+Stock No. | Unit | Description | Quantity | Yes/No | Remarks
+Purpose: ________________________________
+Requested by: ___________   Approved by: ___________
+Issued by: ___________      Received by: ___________

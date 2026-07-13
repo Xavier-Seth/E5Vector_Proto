@@ -1,0 +1,10 @@
+REQUISITION AND ISSUE SLIP (RIS)
+Used to request and issue office or school supplies, materials, or equipment.
+Contains the following details:
+• Entity Name and Fund Cluster
+• Responsibility Center Code
+• Quantity and Unit Description
+• Purpose of requisition
+• Signatures of requester, approver, issuer, and receiver
+
+This form is part of COA Appendix 50 and ensures accountability for issued items.

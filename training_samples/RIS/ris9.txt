@@ -1,0 +1,15 @@
+REQUISITION AND ISSUE SLIP
+Entity Name : NAPOLCOM R6
+Division : RESEARCH
+Responsibility Center Code : 009
+Office : Research Division
+RIS No. : 2025-009
+
+Requisition Stock Available? Issue
+Stock No. Unit Description Quantity Yes No Quantity Remarks
+009 PCS Calculator Scientific 5 ✔ 5 For statistical reports
+
+Requested by: IVAN G. CRUZ
+Approved by: KARLA M. OCAMPO
+Issued by: BENJIE S. DEL ROSARIO
+Date : 30-Jan-25

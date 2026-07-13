@@ -1,0 +1,10 @@
+Computation of Salary Differential (Retroactive)
+
+The Salary Standardization Law (SSL) represents a general increase in the salary schedule.
+Since the effectivity is January 1, but the release is March, the employee is entitled to a differential.
+
+New Rate (SG 11): 27,000
+Old Rate (SG 11): 25,439
+Difference: 1,561 x 3 months = P 4,683.00
+
+Payable immediately upon release of allotment.

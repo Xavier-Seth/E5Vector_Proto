@@ -1,0 +1,8 @@
+INVENTORY CUSTODIAN SLIP (ICS)
+Entity Name: Cabangcalan Elementary School
+Fund Cluster: 01  ICS No.: 2023-001
+Qty  Unit  Description                           Unit Cost  Total Cost
+1    unit  Canon Pixma G2010 Ink Tank Printer     7,500.00   7,500.00
+Received from: MARILYN B. GO (Disbursing Officer)
+Received by:   CARLA B. ALVAREZ (Property Custodian)
+Acknowledged by: Principal I

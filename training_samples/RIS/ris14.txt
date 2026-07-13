@@ -1,0 +1,9 @@
+Appendix 50
+REQUISITION AND ISSUE SLIP (RIS)
+This document serves as an internal control record for the issuance of supplies and materials.
+Stock No. | Unit | Description | Quantity | Stock Available (Yes/No) | Remarks
+Authorized signatories include:
+Requested by: ____________
+Approved by: ____________
+Issued by: ____________
+Received by: ____________

@@ -1,0 +1,12 @@
+POSITION: Teacher III
+SALARY GRADE: 13
+STEP: 1 to 2
+
+ADJUSTMENT CALCULATION:
+Basic Salary as of date: 29,000
+Add: Step Increment: 300
+Adjusted Salary: 29,300
+
+Effective Date: January 01, 2023
+Authored by: HRMO III
+Approved: Schools Division Superintendent

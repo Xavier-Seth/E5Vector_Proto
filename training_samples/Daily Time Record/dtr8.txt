@@ -1,0 +1,9 @@
+DAILY TIME RECORD
+Name: {{EMPLOYEE}}
+Position: {{POSITION}}
+Month: {{MONTH}} {{YEAR}}
+
+DAY | AM In/Out | PM In/Out | Overtime | Undertime
+01  | __ __     | __ __     | __ __    | __ __
+…
+Certification & Signatures
